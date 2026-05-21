@@ -63,14 +63,6 @@ Covered fundamentals of computer science including algorithms, data structures, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritesh-sarkar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-sarkar&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Currently Exploring
 
 - Advanced Full-Stack Architecture
