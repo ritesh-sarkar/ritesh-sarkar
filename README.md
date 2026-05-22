@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ritesh Sarkar
+# Hi, I'm Ritesh Sarkar
 
 🚀 Full-Stack Developer | 🎓 CSE Student at DIU | 🧠 Problem Solver | 🌐 UI/UX & AI Enthusiast  
 
